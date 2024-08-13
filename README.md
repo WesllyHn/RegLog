@@ -1,3 +1,20 @@
-Para executar o programa de forma resumida! faça o git clone na sua maquina, abra o arquivo, e rode python main.py
-Com isso ira gravar o log na pasta raiz do arquivo. 
-Alunos Weslly Hendler Neres e Vitor Celestino 
+# Sistema de Login com Logging
+
+Este projeto é um sistema simples de autenticação que registra tentativas de login e eventos em um arquivo de log.
+
+## Como Executar
+
+Para executar o programa de forma resumida:
+
+1. Clone o repositório na sua máquina local:
+     git clone <link-do-repositorio>
+   
+2. Abra o arquivo e rode o programa com o seguinte comando:
+bash
+Copiar código
+python main.py
+
+
+Alunos: 
+Weslly Neres
+Vitor Celestino.
