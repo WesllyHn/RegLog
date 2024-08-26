@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.logs.spring_log_elk.SpringLogElkApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.764 s -- in com.logs.spring_log_elk.SpringLogElkApplicationTests
