@@ -31,6 +31,8 @@ Este projeto tem como foco a geração e visualização de logs a partir de uma 
 **Visualização**: Os logs foram visualizados utilizando dashboards customizados no Kibana. Gráficos de linha, tabelas dinâmicas e mapas de calor foram criados para fornecer uma visão detalhada e interativa dos dados de log.
 
 ![image](https://github.com/user-attachments/assets/a239648a-0187-4c65-b296-9ddb4f57ebfc)
+![image](https://github.com/user-attachments/assets/4a097e94-86ba-444a-8466-3e2f54a392ca)
+
 
 <h2 align="center">Contribuidores</h2>
 <table align="center">
