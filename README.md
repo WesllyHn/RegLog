@@ -8,6 +8,9 @@ Este projeto tem como foco a geração e visualização de logs a partir de uma 
 - Configuração e uso da ferramenta escolhida para visualizar os logs.
 - Documentação e relatório do processo e dos resultados.
 
+  
+[Desenvolvimento de um Sistema de Login com Integração da Pilha ELK.pdf](https://github.com/user-attachments/files/16754826/Desenvolvimento.de.um.Sistema.de.Login.com.Integracao.da.Pilha.ELK.pdf)
+
 ## 🛠️ Ferramentas de Visualização de Logs Utilizadas
 1. Kibana (On-premise)
 
@@ -29,5 +32,11 @@ Este projeto tem como foco a geração e visualização de logs a partir de uma 
 
 ![image](https://github.com/user-attachments/assets/a239648a-0187-4c65-b296-9ddb4f57ebfc)
 
-## 📃 Relatório de Visualização de Logs
+<h2 align="center">Contribuidores</h2>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/117309594?v=4" width="100px;" alt=""/><br /><sub><b>Weslly Neres</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104214178?v=4" width="100px;" alt=""/><br /><sub><b>Vítor Celestino</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+  </tr>
+</table>
 
